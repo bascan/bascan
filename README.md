@@ -1,7 +1,7 @@
 # Bas Cancrinus
 ### Principal Tech Lead — Platform Engineering & Sovereign AI
 
-Berlin, Germany | Open to EU Relocation
+Berlin, Germany
 
 Hands-on technical leader with 20+ years building business-critical software and platforms. Specialized in evolving Kubernetes platforms into **Agentic Engineering Platforms (AEP)** and architecting **Sovereign AI** infrastructure.
 
