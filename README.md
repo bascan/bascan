@@ -29,4 +29,4 @@ Hands-on technical leader with 20+ years building business-critical software and
 
 ---
 
-📫 **Connect:** [LinkedIn](https://linkedin.com/in/basca) | bas@bascan.eu
+📫 **Connect:** [LinkedIn](https://linkedin.com/in/basca) | [bas@bascan.eu](mailto:bas@bascan.eu)
