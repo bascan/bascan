@@ -24,5 +24,3 @@ Hands-on technical leader with 20+ years building business-critical software and
 - **Cloud Native Rockstar Award** (2025 & 2026)
 - **Speaker:** "Three pillars for AI agents in production: audit, evaluation, budget" — CLC 2026
 - **Speaker:** "The next platform evolution: when your IDP learns to lead agents" — CCX 2026
-
----
