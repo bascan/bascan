@@ -26,5 +26,3 @@ Hands-on technical leader with 20+ years building business-critical software and
 - **Speaker:** "The next platform evolution: when your IDP learns to lead agents" — CCX 2026
 
 ---
-
-📫 **Connect:** [LinkedIn](https://linkedin.com/in/basca) | [bas@bascan.eu](mailto:bas@bascan.eu)
