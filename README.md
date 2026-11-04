@@ -14,7 +14,7 @@ Hands-on technical leader with 20+ years building business-critical software and
 
 ---
 
-### 🛠 Tech Stack Radar
+### 🛠 Tech Stack
 - **Platform & Delivery:** Kubernetes, ArgoCD, Helm, Crossplane, OpenTofu, GitLab CI, Backstage, OpenStack
 - **AI & Data Infrastructure:** vLLM, Qwen, LangGraph, DeerFlow, OpenSandbox, PostgreSQL, Kafka, Cassandra
 - **Security & Identity:** Keycloak (OIDC/RBAC), OpenBao, External Secrets, Supply-Chain Hardening
